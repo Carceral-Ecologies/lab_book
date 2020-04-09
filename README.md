@@ -73,7 +73,7 @@ First thing that will happen as a part of our onboarding proccess is that you wi
 * Return lab key!!!!!!
 * Exit interview
 
-Exit interview○:
+Exit interview:
 1. How was your overall experience working in the lab?
 2. How did your fellow lab members make you feel / how did you feel in the labenvironment (approachable? Comfortable to talk to to? Easy to work with?...)
 3. What is the most valuable thing you learned? What else did you learn?
