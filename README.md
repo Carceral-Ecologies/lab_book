@@ -9,7 +9,7 @@ Repo is where we do work that cross-cuts our various projects and sets the direc
 This lab book draws upon the collectively-honed insights and pathbreaking work of the Civic Laboratory for Environmental Action Research (CLEAR), a feminist, anti-colonial lab specializing in monitoring plastic pollution, directed by Max Liboiron. See the Jan 1, 2018 snapshot of [CLEAR Lab Book](https://civiclaboratory.nl/clear-lab-book/). In particular we draw heavily upon xxxxx. 
 
 
- 	__** Value Framework **__
+ ##	__Value Framework__
 
 
 We communicate our values in the hopes that they will ground our actions and decisions in what we hold important. It is our aspiration that all actions and outputs of the lab are reflective of these values.
