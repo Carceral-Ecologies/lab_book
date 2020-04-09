@@ -2,14 +2,14 @@
 Repo is where we do work that cross-cuts our various projects and sets the direction and protocols for the lab as a whole.
 
 
-##The Following is a *draft* version of our lab book. As a draft it may contain errors and may need improved citation. Please submit a pull request to suggest any changes
+## The Following is a *draft* version of our lab book. As a draft it may contain errors and may need improved citation. Please submit a pull request to suggest any changes
 
-#Carceral Ecologies Lab Book
+# Carceral Ecologies Lab Book
 
 This lab book draws upon the collectively-honed insights and pathbreaking work of the Civic Laboratory for Environmental Action Research (CLEAR), a feminist, anti-colonial lab specializing in monitoring plastic pollution, directed by Max Liboiron. See the Jan 1, 2018 snapshot of [CLEAR Lab Book](https://civiclaboratory.nl/clear-lab-book/). In particular we draw heavily upon xxxxx. 
 
 
- 	__**Value Framework**__
+ 	__** Value Framework **__
 
 
 We communicate our values in the hopes that they will ground our actions and decisions in what we hold important. It is our aspiration that all actions and outputs of the lab are reflective of these values.
@@ -20,10 +20,10 @@ We communicate our values in the hopes that they will ground our actions and dec
 4. Humility & Solidarity
 
 
-##Glossary of Terms
+## Glossary of Terms
 A glossary of terms we use including our values is located `here` (or rather will be located there...). 
 
-##Lab Guidelines
+## Lab Guidelines
 
 1. If you are sick, heartbroken, or exhausted, go home. This work is not more important thanyour well being.
 
@@ -42,12 +42,12 @@ A glossary of terms we use including our values is located `here` (or rather wil
 8. *Acknowledge the shoulders & Land you stand on*. When you write articles or do presentations from the work that has happened in the lab, always include an acknowledgementpage as your last slide that thanks people who contributed in various ways by name, as well asthe lab itself. For papers, do the same with author orders and citation. All presentations and articles should include an Indigenous Land Acknowledgement. This is because environmental science owes a great debt to those who have cared for the Land before us. This is part of a process of reconciliation, and away of doing equity, humility and solidarity.
 
 
-##Lab Protocols 
+## Lab Protocols 
 
 Guidlines are general rules and principles, whereas protocols are precise and detailed plans that maintain practices across our group and within science, social science, and organizing--it defines the way we *ought* to proceed in different situations.
 
 
-###Onboarding to the lab
+### Onboarding to the lab
 Welcome to the lab!
 
 First thing that will happen as a part of our onboarding proccess is that you will be invited to our slack. Once in slack:
@@ -67,7 +67,7 @@ First thing that will happen as a part of our onboarding proccess is that you wi
 * Safety stuff
 
 
-###Exiting the Lab
+### Exiting the Lab
 
 * Communal round robin during a meeting: what we valued about your work with us
 * Return lab key!!!!!!
