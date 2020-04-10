@@ -6,7 +6,7 @@ Repo is where we do work that cross-cuts our various projects and sets the direc
 
 
 
-Below is an overview of current work and anticipated trajectories. As this work is contingient on our findings the final outputs are very much up in the air. Red ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15` indicates the three main projects and green ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015` indicates where we are in the workflow.
+Below is an overview of current work and anticipated trajectories. As this work is contingient on our findings the final outputs are very much up in the air. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#Red` indicates the three main projects and ![#47d10c](https://placehold.it/15/47d10c/000000?text=+) `#green` indicates where we are in the workflow.
 
 
 ![alt text](https://github.com/Carceral-Ecologies/lab_book/blob/master/Screen%20Shot%202020-04-09%20at%209.20.38%20PM.png)
