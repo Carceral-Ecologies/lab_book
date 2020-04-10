@@ -6,7 +6,12 @@ Repo is where we do work that cross-cuts our various projects and sets the direc
 
 # Carceral Ecologies Lab Book
 
-This lab book draws upon the collectively-honed insights and pathbreaking work of the Civic Laboratory for Environmental Action Research (CLEAR), a feminist, anti-colonial lab specializing in monitoring plastic pollution, directed by Max Liboiron. See the Jan 1, 2018 snapshot of [CLEAR Lab Book](https://civiclaboratory.nl/clear-lab-book/). In particular we draw heavily upon xxxxx. 
+This lab book draws upon the collectively-honed insights and pathbreaking work of the Civic Laboratory for Environmental Action Research (CLEAR), a feminist, anti-colonial lab specializing in monitoring plastic pollution, directed by Max Liboiron. See the Jan 1, 2018 snapshot of [CLEAR Lab Book](https://civiclaboratory.nl/clear-lab-book/). In particular we draw heavily upon xxxxx.
+
+Below is an overview of current work and anticipated trajectories. As this work is contingient on our findings the final outputs are very much up in the air. Red indicates the three main projects and Green indicates where we are in the workflow.
+
+
+![alt text](https://github.com/Carceral-Ecologies/lab_book/blob/master/Screen%20Shot%202020-04-09%20at%209.20.38%20PM.png)
 
 
  ##	__Value Framework__
