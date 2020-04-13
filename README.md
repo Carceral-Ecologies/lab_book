@@ -32,7 +32,7 @@ A glossary of terms we use including our values is located `here` (or rather wil
 
 ## Lab Guidelines
 
-1. If you are sick, heartbroken, or exhausted, go home. This work is not more important than your well being. This guideline supersides the following guidlines on attendence is complementry to many of those that follow. Communicating when when you have to bow out is perferred but we recognize that is not always possible.
+1. **If you are sick, heartbroken, or exhausted, go home.** This work is not more important than your well being. This guideline supersides the following guidlines on attendence is complementry to many of those that follow. Communicating when when you have to bow out is perferred but we recognize that is not always possible.
 
 2. *Attend lab and working meetings.* Lab meetings (1hr/week) and working meetings (1 hr/week) are the main ways that we operate as an entire lab, and as a community. Lab meetings are where we discuss the values, concepts, goals, and ideas that underlie all our work as a lab, and therefore are where we work out how and why we work. Without the meetings, we are just some people working on some stuff. If you are not going to make a lab meeting, note it in the #general channel on slack. Working meetings occur without Nick (although he can be invited in or ask permission to join) and they are a time to work together in a non-adgenda-driven space without faculty presence. Working meetings at the start of the quarter may tend to be slightly adgenda-driven as its time to self-organize.  If you are not going to be able to make a working meeting note it in the channel for the project you're working on, so your collaborators know what to expect. You *don't need to explain why* you won't be in attendance. 
 
