@@ -61,7 +61,7 @@ First thing that will happen as a part of our onboarding proccess is that you wi
 
 * New to Slack? Here's a [tutorial](https://slack.com/resources/using-slack/slack-tutorials).
 
-* Now that you understand the platform a bit more, go to the #onboarding channel and get access to our 1) cloud storage 2) shared calendar with all our meetings (includine time, place, links) 3) our github (Here you are!)
+* Now that you understand the platform a bit more, go to the #onboarding channel and get access to our 1) cloud storage 2) shared calendar with all our meetings (includine time, place, links) 3) our GitHub. No need to join this channel. Its just a place to find the resrouces. 
 
 * On the left side of your slack browser click on the "+" to the right of "channels" and select "browse channels". take a look at the different channels and join the ones that you are interested in (or have been asked to work on). 
 
