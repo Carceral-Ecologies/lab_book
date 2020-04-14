@@ -57,7 +57,7 @@ In addition to all of the above faculty members should:
 * Give other members feedback on a timely basis, including feedback on project ideas, conference posters, talks, manuscripts, figures, grants.
 * Be available in person and via e-mail on a regular basis, including regular meetings to discuss your research.
 * Support your career development in whatever way I can (e.g., by introducing you to other researchers in the field, promoting your work at talks, writing recommendation letters for you, and letting you attend conferences as often as finances permit)
-* Help you prepare for the next step of your career, whatever it may be. 
+* Help you prepare for the next step of your career in the ways that their work and experince can be helpful. 
 
 
 ## Lab Protocols 
