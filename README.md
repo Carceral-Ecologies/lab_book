@@ -48,6 +48,8 @@ A glossary of terms we use including our values is located `here` (or rather wil
 
 8. *Acknowledge the shoulders & Land you stand on*. When you write articles or do presentations from the work that has happened in the lab, always include an acknowledgementpage as your last slide that thanks people who contributed in various ways by name, as well asthe lab itself. For papers, do the same with author orders and citation. All presentations and articles should include an Indigenous Land Acknowledgement. This is because environmental science owes a great debt to those who have cared for the Land before us. This is part of a process of reconciliation, and away of doing equity, humility and solidarity.
 
+9. *Don't get lost in enumeration* When we conduct quantitative assessments of envrionmental violence we will not lose track of “how” and “why” as we attempt to distill “how much.” 
+
 __Faculty Members__
 
 In addition to all of the above faculty members should:
