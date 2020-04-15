@@ -11,4 +11,4 @@ Ramya Natarajan and Nick Shapiro
 
 ## 2. Transcribe to Project Management Boards and Issues Tab
 - Each of the actionable tasks you outlined above should be detailed under the issues tab. Assign it to a specific Project by clicking "Project" on the right hand column and choosing the appropriate ones
--Go to Projects Board. Enter into designated project. Cick on "Add Cards" in top right. Enter all Issues to correc
+-Go to Projects Board. Enter into designated project. Click on "Add Cards" in top right. Enter all Issues to correc
