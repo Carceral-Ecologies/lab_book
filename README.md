@@ -60,6 +60,10 @@ In addition to all of the above faculty members should:
 * Help you prepare for the next step of your career in the ways that their work and experince can be helpful. 
 
 
+The Carceral Ecologies Lab acknowledges the Gabrielino/Tongva peoples as the traditional land caretakers of Tovaangar (the Los Angeles basin and So. Channel Islands). As a land grant institution, we pay our respects to the [Honuukvetam](https://soundcloud.com/user-604190014-65178502/ancestors) (Ancestors), [‘Ahiihirom](https://soundcloud.com/user-604190014-65178502/elders) (Elders) and [‘eyoohiinkem](https://soundcloud.com/user-604190014-65178502/our-relatives) (our relatives/relations) past, present and emerging.
+
+Click on the linked words to hear the pronunciation for the Tongva-language words.
+
 ## Lab Protocols 
 
 Guidlines are general rules and principles, whereas protocols are precise and detailed plans that maintain practices across our group and within science, social science, and organizing--it defines the way we *ought* to proceed in different situations.
