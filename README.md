@@ -69,7 +69,7 @@ Click on the linked words to hear the pronunciation for the Tongva-language word
 
 * For more information on Indigenous LA, the city in what is now known as the US with the largest Indigenous population, See [Mapping Indigenous LA](https://mila.ss.ucla.edu).
 
-* To better understand the 13,399,104 (inflation-adjusted) dollars that the University of California gained though the land grants of the Morrill Act that disposessed Indigenous people though violence-backed land cessions, see [Land Grab Univeristies].
+* To better understand the 13,399,104 (inflation-adjusted) dollars that the University of California gained though the land grants of the Morrill Act that disposessed Indigenous people though violence-backed land cessions, see [Land Grab Univeristies](https://www.landgrabu.org/universities).
 
 ## Lab Protocols 
 
