@@ -65,6 +65,12 @@ The Carceral Ecologies Lab acknowledges the Gabrielino/Tongva peoples as the tra
 
 Click on the linked words to hear the pronunciation for the Tongva-language words.
 
+* For more information on the Indigenous repatriation via NAGPRA and UCLA's role see [Carrying Our Ancestors Home](http://www.coah-repat.com) "an educational tool for people seeking to understand the process and diversity of returning ancestral remains and cultural items as well as the impact of repatriation on Indigenous communities around the world."
+
+* For more information on Indigenous LA, the city in what is now known as the US with the largest Indigenous population, See [Mapping Indigenous LA](https://mila.ss.ucla.edu).
+
+* To better understand the 13,399,104 (inflation-adjusted) dollars that the University of California gained though the land grants of the Morrill Act that disposessed Indigenous people though violence-backed land cessions, see [Land Grab Univeristies].
+
 ## Lab Protocols 
 
 Guidlines are general rules and principles, whereas protocols are precise and detailed plans that maintain practices across our group and within science, social science, and organizing--it defines the way we *ought* to proceed in different situations.
