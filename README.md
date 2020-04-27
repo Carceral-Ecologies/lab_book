@@ -13,7 +13,7 @@ Below is an overview of current work and anticipated trajectories. As this work 
 
 # Carceral Ecologies Lab Book
 
-This lab book draws upon the collectively-honed insights and pathbreaking work of the Civic Laboratory for Environmental Action Research (CLEAR), a feminist, anti-colonial lab specializing in monitoring plastic pollution, directed by Max Liboiron. See the Jan 1, 2018 snapshot of [CLEAR Lab Book](https://civiclaboratory.nl/clear-lab-book/). In particular we draw heavily upon xxxxx. Test on faculty responsiblities is almost entierly from the [Aly Lab Book](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf). 
+This lab book draws upon the collectively-honed insights and pathbreaking work of the Civic Laboratory for Environmental Action Research (CLEAR), a feminist, anti-colonial lab specializing in monitoring plastic pollution, directed by Max Liboiron. See the Jan 1, 2018 snapshot of [CLEAR Lab Book](https://civiclaboratory.nl/clear-lab-book/). In particular we draw heavily upon xxxxx. Text on faculty responsiblities is almost entierly from the [Aly Lab Book](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf) and that lab book also inspired somelanguade in the Work Autonomiously guideline. 
 
 
  ##	__Value Framework__
