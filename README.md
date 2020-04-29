@@ -113,3 +113,17 @@ Exit interview:
 8. Is there anything else about your experiences that you would like to share?
 
 ### Project Management Protocol
+
+Under Construction...
+
+### Licensing
+
+To ensure our work remains accessible we rely on the following licenses (unless otherwise stated):
+1. For datasets and databeases we use the [ODC Open Database License](https://opendatacommons.org/licenses/odbl/summary/index.html)
+2. For text and images (and similar creative work) we use Creative Commons Attribution-ShareAlike 4.0 International [(CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+3. For code we use the [GNU General Public License v 3](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+
+### Manual Coding Prisons, Jails, and Detention Centers with EPA ID Protocol
+
+To see how we for determine the correct EPA ID number(s) for carceral faclities please see our Manual Coding Protocol [here](https://docs.google.com/document/d/1LcTDziXidFbjKlBaBK1kJASdApoVPzriterqTe16E8s/edit?usp=sharing) (24 Pages). 
