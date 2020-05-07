@@ -63,13 +63,9 @@ In addition to all of the above faculty members should:
 
 The Carceral Ecologies Lab acknowledges the Gabrielino/Tongva peoples as the traditional land caretakers of Tovaangar (the Los Angeles basin and So. Channel Islands). As a land grant institution, we pay our respects to the [Honuukvetam](https://soundcloud.com/user-604190014-65178502/ancestors) (Ancestors), [‘Ahiihirom](https://soundcloud.com/user-604190014-65178502/elders) (Elders) and [‘eyoohiinkem](https://soundcloud.com/user-604190014-65178502/our-relatives) (our relatives/relations) past, present and emerging.
 
-Click on the linked words to hear the pronunciation for the Tongva-language words.
+Click on the linked words above to hear the pronunciation for the Tongva-language words and see the map of Tongva territory below.
 
-
-<iframe src="http://www.javarepl.com/embed.html"
-
-
-<iframe src="https://native-land.ca/api/embed/embed.html?maps=languages&name=tongva" style="width: 500px; height: 130px; border: 0px"></iframe>
+[![click this map](https://github.com/Carceral-Ecologies/lab_book/blob/master/Tongva%20screenshot.png)](https://native-land.ca/api/embed/embed.html?maps=languages&name=tongva)
 
 
 * For more information on the Indigenous repatriation via NAGPRA and UCLA's role see [Carrying Our Ancestors Home](http://www.coah-repat.com) "an educational tool for people seeking to understand the process and diversity of returning ancestral remains and cultural items as well as the impact of repatriation on Indigenous communities around the world."
