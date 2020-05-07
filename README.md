@@ -66,7 +66,11 @@ The Carceral Ecologies Lab acknowledges the Gabrielino/Tongva peoples as the tra
 Click on the linked words to hear the pronunciation for the Tongva-language words.
 
 
-  <iframe width="560" height="315" src="https://native-land.ca/api/embed/embed.html?maps=languages&name=tongva" frameborder="0"></iframe> 
+<iframe src="http://www.javarepl.com/embed.html"
+
+
+<iframe src="https://native-land.ca/api/embed/embed.html?maps=languages&name=tongva" style="width: 500px; height: 130px; border: 0px"></iframe>
+
 
 * For more information on the Indigenous repatriation via NAGPRA and UCLA's role see [Carrying Our Ancestors Home](http://www.coah-repat.com) "an educational tool for people seeking to understand the process and diversity of returning ancestral remains and cultural items as well as the impact of repatriation on Indigenous communities around the world."
 
