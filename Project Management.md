@@ -40,7 +40,8 @@ Originally I met with Nick to plan out goals for the lab during the quarter. Thi
     
     The workshop would take place during Week 9 or 10. The goal is to assess progresss made this quarter by the lab and use that to plan actionables for next quarter. Ideally, we walk out of this with a plan and assigned actionables for next quarter.
     
-        Objective #1: 
+        Objective #1: Reflect on our progress made this quarter.
+        This is a chance for each member to individually assess their own progress without attaching an evaluation process or judgement. 
 I suggest that for these large, overarching goals that will likely guide the lab for many quarters, Nick take some executive power
 
 Main thing someone with both accute technical and domain knowledge (ie knows project management but also has knowledge about the project) should be in charge.
