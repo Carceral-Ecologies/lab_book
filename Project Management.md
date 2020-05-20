@@ -41,7 +41,17 @@ Originally I met with Nick to plan out goals for the lab during the quarter. Thi
     The workshop would take place during Week 9 or 10. The goal is to assess progresss made this quarter by the lab and use that to plan actionables for next quarter. Ideally, we walk out of this with a plan and assigned actionables for next quarter.
     
         Objective #1: Reflect on our progress made this quarter.
-        This is a chance for each member to individually assess their own progress without attaching an evaluation process or judgement. 
-I suggest that for these large, overarching goals that will likely guide the lab for many quarters, Nick take some executive power
+        This is a chance for each member to individually assess their own progress without attaching an evaluation process or judgement. There are numerous different team activities that could be used for this. For example, each member of the team could share what they were most proud to have accomplished/grown in this quarter and one thing they thing they could improve on. A different activity could include a "expectations vs. reality" exercise whereby members write down how they expected their work to go during the quarter on a post it note and compare it to what actually happened, and then we use group discussion to discuss any disconnect. 
+        
+        Objective #2: Establish goals for next quarter
+        I suggest Nick take some executive power in deciding these because these ultimately will guide the lab for many quarters and decide our outcomes. For example, this quarter we focused on completing manual coding.
+        
+        Objective #3: Assign members to a goal/project
+        We more or less did this Winter quarter where everyone stated what they'd be interested in working on. Maybe we can just tailor it so that lab members can pick between goals/projects set out by Nick or decided on the lab as a whole. Extra projects (such as researching health literature, as was my case) can also be incorporated, but probably as additional projects to be v oluntarily taken up near the end of the following quarter if all other tasks are finished early.
+        
+        Objective #4: Commit to tasks on GitHub
+        Once members decide what they want to work on, they should break them into step-wise actionables and assign those tasks to themselves on GitHub. This quarter I did this, but it'd be more efficient for lab assistants to break it up themselves considering they have better knowledge about how much time each tasks takes.
+        
+        Objective #5: Visibilize progress
+        This is completely optional, but it'd be great if we had 10 minutes during lab meeting where everyone could talk about their progress, and whether there are any areas they need support in.
 
-Main thing someone with both accute technical and domain knowledge (ie knows project management but also has knowledge about the project) should be in charge.
