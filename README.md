@@ -13,7 +13,7 @@ Below is an overview of current work and anticipated trajectories. As this work 
 
 # Carceral Ecologies Lab Book
 
-This lab book draws upon the collectively-honed insights and pathbreaking work of the Civic Laboratory for Environmental Action Research (CLEAR), a feminist, anti-colonial lab specializing in monitoring plastic pollution, directed by Max Liboiron. See the Jan 1, 2018 snapshot of [CLEAR Lab Book](https://civiclaboratory.nl/clear-lab-book/). In particular we draw heavily upon xxxxx. Text on faculty responsiblities is almost entierly from the [Aly Lab Book](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf) and that lab book also inspired somelanguade in the Work Autonomiously guideline. The child care guideline is entirely in debt to Kate Cairns sylabus policy you can see [here](https://twitter.com/katefcairns/status/1222274604426825730/photo/1). 
+This lab book draws upon the collectively-honed insights and pathbreaking work of the Civic Laboratory for Environmental Action Research (CLEAR), a feminist, anti-colonial lab specializing in monitoring plastic pollution, directed by Max Liboiron. See the Jan 1, 2018 snapshot of [CLEAR Lab Book](https://civiclaboratory.nl/clear-lab-book/). In particular lab guidlines 1-8 were drawn directly from the CLEAR Lab Book and then adapted with minor edits. The value framework blurb as well as the onboarding and exiting protocols are directly drawn from the CLEAR Lab Book. Text on faculty responsiblities is almost entierly from the [Aly Lab Book](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf) and that lab book also inspired some language in the Work Autonomiously guideline. The child care guideline is entirely in debt to Kate Cairns sylabus policy you can see [here](https://twitter.com/katefcairns/status/1222274604426825730/photo/1). 
 
 
  ##	__Value Framework__
@@ -50,7 +50,7 @@ A glossary of terms we use including our values is located `here` (or rather wil
 
 8. *Acknowledge the shoulders & Land you stand on*. When you make presentations from the work that has happened in the lab, always include an acknowledgement page as your last slide that thanks people who contributed in various ways by name, as well as the lab itself. For papers, do the same with author orders and citation. All presentations should include an Indigenous Land Acknowledgement at the beggining and all papers should include such an acknowledgement in the acknowledgements section. This is because environmental science owes a great debt to those who have, and continue to, care for the Land of Turtle Island. Repeating these truths is a small part of the work of counteracting Indiginious erasure and a way of practicing equity, humility and solidarity.
 
-9. *Don't get lost in enumeration* When we conduct quantitative assessments of envrionmental violence we will not lose track of “how”, “why”, and "what can we do about it" as we attempt to distill “how much.” The means that we have an attentiveness to the quality of our own proccess and the values they refelct. But this also means that our enumerative work mush be complemented by qualitative histotical understandings of the processes that led to the violences we are recording as well as look towards how an otherwise future might be achieved.
+9. *Don't get lost in enumeration* When we conduct quantitative assessments of envrionmental violence we will not lose track of “how”, “why”, and "what can we do about it" as we attempt to distill “how much.” The means that we have an attentiveness to the quality of our own proccess and the values they refelct. But this also means that our enumerative work must be complemented by qualitative histotical understandings of the processes that led to the violences we are recording as well as look towards how an otherwise future might be achieved.
 
 10. *Child Care* Many students have care responsiblities for a child or children in their life, whether as a parent, an older sibling, cousin, etc. If your childcare needs ever come into conflict with the lab schedule, please don't feel as though you need to miss a lab meeting. We understand that sometimes plans fall though. If this happens, you are welcome to bring a child to lab meetings or lab work with you. We simply ask that you bring materials to keep them busy, and remain mindful of your classmates. If you have any questions about this, feel free to contact Nick about it. 
 
@@ -105,7 +105,7 @@ First thing that will happen as a part of our onboarding proccess is that you wi
 
 ### Exiting the Lab
 
-* Communal round robin during a meeting: what we valued about your work with us
+* Communal round robin during a meeting: what we valued about your work with us.
 * Return lab key!!!!!!
 * Exit interview
 
