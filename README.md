@@ -134,3 +134,15 @@ To ensure our work remains accessible we rely on the following licenses (unless 
 ### Manual Coding Prisons, Jails, and Detention Centers with EPA ID Protocol
 
 To see how we for determine the correct EPA ID number(s) for carceral faclities please see our Manual Coding Protocol [here](https://docs.google.com/document/d/1LcTDziXidFbjKlBaBK1kJASdApoVPzriterqTe16E8s/edit?usp=sharing) (24 Pages). 
+
+###Playlists
+
+Community Care Vollume 1. Funk [Apple Music](https://music.apple.com/us/playlist/community-care-vol-i/pl.u-leyl2WGiMPa5qN) + [Spotify](https://open.spotify.com/user/34pvsp1zn46tvsguyfrtw7mm6/playlist/4VajBgFwigyiWahDf8Ln8S?si=7j0zXfUFTAayYPcTzDIS1g) By Melissa Chimwaza
+
+Community Care Vollume 2. Reggae [Apple Music](https://music.apple.com/us/playlist/community-care-vol-ii/pl.u-BNA6zLVteRkG49)By Melissa Chimwaza
+
+Community Care Vollume 3. Denouement for Change [Spotify](https://open.spotify.com/playlist/03FMVUnTJikPN8q5u9Ksmb?si=40xz-UZDRkCVGiwSnUQ9nQ) by Nathan Tran
+
+Community Care Vollume 4. Earf[Spotify](https://open.spotify.com/playlist/5ap9wdtxr7JHytgQMLDBWJ?si=voxJ3cpETL-skgNdiFtjgQ)
+
+Feel The City Breathin [Spotify](https://open.spotify.com/playlist/0pyd1CE3KkqE2sIhGwY6ip?si=9HavGQbTQLGmv1oXiQlURw)
