@@ -143,6 +143,6 @@ Community Care Vollume 2. Reggae [Apple Music](https://music.apple.com/us/playli
 
 Community Care Vollume 3. Denouement for Change [Spotify](https://open.spotify.com/playlist/03FMVUnTJikPN8q5u9Ksmb?si=40xz-UZDRkCVGiwSnUQ9nQ) by Nathan Tran
 
-Community Care Vollume 4. Earf[Spotify](https://open.spotify.com/playlist/5ap9wdtxr7JHytgQMLDBWJ?si=voxJ3cpETL-skgNdiFtjgQ)
+Community Care Vollume 4. Earf [Spotify](https://open.spotify.com/playlist/5ap9wdtxr7JHytgQMLDBWJ?si=voxJ3cpETL-skgNdiFtjgQ) by Nathan Tran
 
-Feel The City Breathin [Spotify](https://open.spotify.com/playlist/0pyd1CE3KkqE2sIhGwY6ip?si=9HavGQbTQLGmv1oXiQlURw)
+Feel The City Breathin [Spotify](https://open.spotify.com/playlist/0pyd1CE3KkqE2sIhGwY6ip?si=9HavGQbTQLGmv1oXiQlURw) by Ben Millam
