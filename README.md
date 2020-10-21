@@ -32,7 +32,7 @@ A glossary of terms we use including our values is located `here` (or rather wil
 
 ## Lab Guidelines
 
-1. **If you are sick, heartbroken, or exhausted, go home.** This work is not more important than your well being. This guideline supersedes the following guidlines on attendence is complementry to many of those that follow. Communicating when you have to bow out is perferred but we recognize that is not always possible.
+1. **If you are sick, heartbroken, or exhausted, go home.** This work is not more important than your well being. This guideline supersedes the following guidlines on attendence is complementry to many of those that follow. Communicating when you have to bow out is preferred but we recognize that is not always possible.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For a list of UCLA Campus Resources for Student Support please see [this list](https://docs.google.com/document/d/1RC9_vNrYTN9sylZM7HySeh21iTXRzwaUdBdo6_ngg00/edit?usp=sharing).
 
