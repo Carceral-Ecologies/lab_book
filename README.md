@@ -6,7 +6,7 @@ Repo is where we do work that cross-cuts our various projects and sets the direc
 
 
 
-Below is an overview of current work and anticipated trajectories. As this work is contingient on our findings the final outputs are very much up in the air. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#Red` indicates the three main projects and ![#47d10c](https://placehold.it/15/47d10c/000000?text=+) `#green` indicates where we are in the workflow.
+Below is an overview of current work and anticipated trajectories. As this work is contingent on our findings the final outputs are very much up in the air. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#Red` indicates the three main projects and ![#47d10c](https://placehold.it/15/47d10c/000000?text=+) `#green` indicates where we are in the workflow.
 
 
 ![alt text](https://github.com/Carceral-Ecologies/lab_book/blob/master/Flow%20Chart_Carceral%20Ecologies%20Fall%202020.png)
@@ -35,28 +35,28 @@ A glossary of terms we use including our values is located [here](https://docs.g
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For a list of UCLA Campus Resources for Student Support please see [this list](https://docs.google.com/document/d/1RC9_vNrYTN9sylZM7HySeh21iTXRzwaUdBdo6_ngg00/edit?usp=sharing).
 
-2. *Attend lab and community meetings.* Lab meetings (1hr/week) and community meetings (1 hr/week) are the main ways that we operate as an entire lab, and as a community. Lab meetings are where we discuss the values, concepts, goals, and ideas that underlie all our work as a lab, and therefore are where we work out how and why we work. Without the meetings, we are just some people working on some stuff. If you are not going to make a lab meeting, note it in the #general channel on slack. You *don't need to explain why* you won't be in attendance. Community meetings occur without Nick (although he can be invited in or ask permission to join) and they are a time to work together in a non-adgenda-driven space without faculty presence. Community meetings at the start of the quarter may tend to be slightly adgenda-driven as its time to self-organize.  If you are not going to be able to make a community meeting note it in the channel for the project you're working on, so your collaborators know what to expect. You *don't need to explain why* you won't be in attendance, but please don't get in the habbit of not attenting meetings. If you do, someone from the lab will reach out to you to make sure you're ok.  
+2. *Attend lab and community meetings.* Lab meetings (1hr/week) and community meetings (1 hr/week) are the main ways that we operate as an entire lab, and as a community. Lab meetings are where we discuss the values, concepts, goals, and ideas that underlie all our work as a lab, and therefore are where we work out how and why we work. Without the meetings, we are just some people working on some stuff. If you are not going to make a lab meeting, note it in the #general channel on slack. You *don't need to explain why* you won't be in attendance. Community meetings occur without Nick (although he can be invited in or ask permission to join) and they are a time to work together in a non-agenda-driven space without faculty presence. Community meetings at the start of the quarter may tend to be slightly agenda-driven as its time to self-organize.  If you are not going to be able to make a community meeting note it in the channel for the project you're working on, so your collaborators know what to expect. You *don't need to explain why* you won't be in attendance, but please don't get in the habbit of not attenting meetings. If you do, someone from the lab will reach out to you to make sure you're ok.  
 
 3. *Work autonomously, with others*. We trust and depend on you to get your projects done, and there won’t be a lot of oversight to ensure that is happening. Nick cares for the lab as a whole, while lab members care for projects, each other, and themselves. Our work is collaborative not competitive. Respect eachothers strengths and weaknesses. We will all inevitably struggle with some aspect of our work. When you need help, reach out to other lab members. **We expect that you are able to ask for help when you need it, and to problem solve.** We are all here to help. You are always welcome to check in with Nick and the research coordinator, but you were invited to join the lab because you’re smart and can figure things out, so try that first. Mistakes will be made. That’s cool. We admit our mistakes and we communicate them to others so that mistakes aren't repeated and then we move on.
 
 4. *Take care of each other, and yourself*. When you first start, work in pairs so other lab members are there to answer questions or lend a hand. If you notice other lab members are struggling, provide whatever support you can, or tell someone that you think can help them. Listen to each other or resepct each others desire for quiet when we need it. Lab members are always encouraged to speak their mind and communicate their concerns/questions. You can always bring the research coordinator or Nick in to provide concrete support if you or another lab member requires it.
 
-5. *Take breaks*! If you work for three hours or more, take a paid 15-minute  every 1.5-2 hours that counts towards your paid or course work time. If you work for six hours, take a paid 30 minute break in addition to the 15 minutes. If you work for 8 hours, take a 1-hour "on-the-clock" lunch break. Don’t work more than 8 hours. That’s silly. If you’re doing intensive coding, microscope, video, or counting work, rest your eyes every 20-30 minutes. Studies have shown that taking regular breaks makes you more productive. It’s also important to care for yourself.
+5. *Take breaks*! If you work for three hours or more, take a paid 15-minute break every 1.5-2 hours that counts towards your paid or course work time. If you work for six hours, take a paid 30 minute break in addition to the 15 minutes. If you work for 8 hours, take a 1-hour "on-the-clock" lunch break. Don’t work more than 8 hours. That’s silly. If you’re doing intensive coding, microscope, video, or counting work, rest your eyes every 20-30 minutes. Studies have shown that taking regular breaks makes you more productive. It’s also important to care for yourself.
 
 6. *Take your ideas seriously*. Many of the lab tasks are for ongoing projects in which we are beholden to community groups, grantors, or others. But we are always interested in new projects or new ways of doing ongoing projects. We’re especially interested in ideas for how to make our work more feminist, decolonial, and equitable. If you have an idea for something you want to explore or develop, let us know! Post your idea in #kindling channel (and let people know in #general that you've posted it). {Kindling protocol, under development}
 
 7. *Honor each other's time*. Because the lab is member-run, if you are meeting others, it is important that you are on time so that others are not waiting for you. If you’re running late, text ahead and let people know when you expect to arrive. You can also use slack but people's notifications may not be setup to get the message in a timely way, so its best to get the numbers of folks you're meeting up with *before* you’re late. We understand that things comes up and clear communication is the way we stay our course when one of us is running late or has to reconsider the extent of their commitments to our collective work. Honoring eachother's time is not just about showing up when we say we will but also routinely appreciating the labor and time of other members. This is everyday work, but especially significant moments or efforts can additionally be recognized in the #appreciation channel. 
 
-8. *Acknowledge the shoulders & Land you stand on*. When you make presentations from the work that has happened in the lab, always include an acknowledgement page as your last slide that thanks people who contributed in various ways by name, as well as the lab itself. For papers, do the same with author orders and citation. All presentations should include an Indigenous Land Acknowledgement at the beggining and all papers should include such an acknowledgement in the acknowledgements section. This is because environmental science owes a great debt to those who have, and continue to, care for the Land of Turtle Island. Repeating these truths is a small part of the work of counteracting Indiginious erasure and a way of practicing equity, humility and solidarity.
+8. *Acknowledge the shoulders & Land you stand on*. When you make presentations from the work that has happened in the lab, always include an acknowledgement page as your last slide that thanks people who contributed in various ways by name, as well as the lab itself. For papers, do the same with author orders and citation. All presentations should include an Indigenous Land Acknowledgement at the beggining and all papers should include such an acknowledgement in the acknowledgements section. This is because environmental science owes a great debt to those who have, and continue to, care for the Land of Turtle Island. Repeating these truths is a small part of the work of counteracting Indigenous erasure and a way of practicing equity, humility and solidarity.
 
-9. *Don't get lost in enumeration* When we conduct quantitative assessments of envrionmental violence we will not lose track of “how”, “why”, and "what can we do about it" as we attempt to distill “how much.” The means that we have an attentiveness to the quality of our own proccess and the values they refelct. But this also means that our enumerative work must be complemented by qualitative historical understandings of the processes that led to the violences we are recording as well as look towards how an otherwise future might be achieved.
+9. *Don't get lost in enumeration*. When we conduct quantitative assessments of envrionmental violence we will not lose track of “how”, “why”, and "what can we do about it" as we attempt to distill “how much.” The means that we have an attentiveness to the quality of our own proccess and the values they refelct. But this also means that our enumerative work must be complemented by qualitative historical understandings of the processes that led to the violences we are recording as well as look towards how an otherwise future might be achieved.
 
-10. *Child Care* Many students have care responsiblities for a child or children in their life, whether as a parent, an older sibling, cousin, etc. If your childcare needs ever come into conflict with the lab schedule, please don't feel as though you need to miss a lab meeting. We understand that sometimes plans fall though. If this happens, you are welcome to bring a child to lab meetings or lab work with you. We simply ask that you bring materials to keep them busy, and remain mindful of your classmates. If you have any questions about this, feel free to contact Nick about it. 
+10. *Child Care*. Many students have care responsiblities for a child or children in their life, whether as a parent, an older sibling, cousin, etc. If your childcare needs ever come into conflict with the lab schedule, please don't feel as though you need to miss a lab meeting. We understand that sometimes plans fall though. If this happens, you are welcome to bring a child to lab meetings or lab work with you. We simply ask that you bring materials to keep them busy, and remain mindful of your classmates. If you have any questions about this, feel free to contact Nick about it. 
 
 __Faculty Members__
 
 In addition to all of the above faculty members should:
-* Support other members of the lab (scientifically, intelectually, emotionally, and where possible, financially).
+* Support other members of the lab (scientifically, intellectually, emotionally, and where possible, financially).
 * Give other members feedback on a timely basis, including feedback on project ideas, conference posters, talks, manuscripts, figures, grants.
 * Be available in person and via e-mail on a regular basis, including regular meetings to discuss your research.
 * Support your career development in whatever way I can (e.g., by introducing you to other researchers in the field, promoting your work at talks, writing recommendation letters for you, and letting you attend conferences as often as finances permit)
@@ -64,7 +64,7 @@ In addition to all of the above faculty members should:
 
 # Land Acknowledgement
 
-The Carceral Ecologies Lab acknowledges the Gabrielino/Tongva peoples as the traditional land caretakers of Tovaangar (the Los Angeles basin and So. Channel Islands). As a land grant institution, we pay our respects to the [Honuukvetam](https://soundcloud.com/user-604190014-65178502/ancestors) (Ancestors), [‘Ahiihirom](https://soundcloud.com/user-604190014-65178502/elders) (Elders) and [‘eyoohiinkem](https://soundcloud.com/user-604190014-65178502/our-relatives) (our relatives/relations) past, present and emerging.
+The Carceral Ecologies Lab acknowledges the Gabrielino/Tongva peoples as the traditional land caretakers of Tovaangar (the Los Angeles basin and South Channel Islands). As a land grant institution, we pay our respects to the [Honuukvetam](https://soundcloud.com/user-604190014-65178502/ancestors) (Ancestors), [‘Ahiihirom](https://soundcloud.com/user-604190014-65178502/elders) (Elders) and [‘eyoohiinkem](https://soundcloud.com/user-604190014-65178502/our-relatives) (our relatives/relations) past, present and emerging.
 
 Click on the linked words above to hear the pronunciation for the Tongva-language words and see the map of Tongva territory below.
 
@@ -79,7 +79,7 @@ Image Via [native-land.ca/](native-land.ca/)
 
 ## Lab Protocols 
 
-Guidlines are general rules and principles, whereas protocols are precise and detailed plans that maintain practices across our group and within science, social science, and organizing--it defines the way we *ought* to proceed in different situations.
+Guidelines are general rules and principles, whereas protocols are precise and detailed plans that maintain practices across our group and within science, social science, and organizing—it defines the way we *ought* to proceed in different situations.
 
 
 ### Onboarding to the lab
@@ -95,22 +95,22 @@ First thing that will happen as a part of our onboarding proccess is that you wi
 
 * Read this Lab Book!
 
-* Understand lab expectations--manage your own time, solve problems to the best of your ability, use the entire lab as a resource.
+* Understand lab expectations—manage your own time, solve problems to the best of your ability, use the entire lab as a resource.
 
-* Start a schedule of tasks-what are you going to work on, when? As the research coordinator to help you with that on github (if you need help). 
+* Start a schedule of tasks—what are you going to work on, when? As the research coordinator to help you with that on github (if you need help). 
 
-* Safety stuff
+* Safety stuff.
 
 
 ### Exiting the Lab
 
 * Communal round robin during a meeting: what we valued about your work with us.
 * Return lab key!!!!!!
-* Exit interview
+* Exit interview.
 
 Exit interview:
 1. How was your overall experience working in the lab?
-2. How did your fellow lab members make you feel / how did you feel in the labenvironment (approachable? Comfortable to talk to to? Easy to work with?...)
+2. How did your fellow lab members make you feel / how did you feel in the lab environment (approachable? Comfortable to talk to to? Easy to work with?...)
 3. What is the most valuable thing you learned? What else did you learn?
 4. How do you think your work/experience in the lab could have been different?
 5. What stood in the way of you getting your work done (if anything)? 
@@ -132,16 +132,16 @@ To ensure our work remains accessible we rely on the following licenses (unless 
 
 ### Manual Coding Prisons, Jails, and Detention Centers with EPA ID Protocol
 
-To see how we for determine the correct EPA ID number(s) for carceral faclities please see our Manual Coding Protocol [here](https://docs.google.com/document/d/1LcTDziXidFbjKlBaBK1kJASdApoVPzriterqTe16E8s/edit?usp=sharing) (24 Pages). 
+To see how we for determine the correct EPA ID number(s) for carceral facilities please see our Manual Coding Protocol [here](https://docs.google.com/document/d/1LcTDziXidFbjKlBaBK1kJASdApoVPzriterqTe16E8s/edit?usp=sharing) (24 Pages). 
 
 ### Playlists
 
-Community Care Vollume 1. Funk [Apple Music](https://music.apple.com/us/playlist/community-care-vol-i/pl.u-leyl2WGiMPa5qN) + [Spotify](https://open.spotify.com/user/34pvsp1zn46tvsguyfrtw7mm6/playlist/4VajBgFwigyiWahDf8Ln8S?si=7j0zXfUFTAayYPcTzDIS1g) By Melissa Chimwaza
+Community Care Volume 1. Funk [Apple Music](https://music.apple.com/us/playlist/community-care-vol-i/pl.u-leyl2WGiMPa5qN) + [Spotify](https://open.spotify.com/user/34pvsp1zn46tvsguyfrtw7mm6/playlist/4VajBgFwigyiWahDf8Ln8S?si=7j0zXfUFTAayYPcTzDIS1g) By Melissa Chimwaza
 
-Community Care Vollume 2. Reggae [Apple Music](https://music.apple.com/us/playlist/community-care-vol-ii/pl.u-BNA6zLVteRkG49)By Melissa Chimwaza
+Community Care Volume 2. Reggae [Apple Music](https://music.apple.com/us/playlist/community-care-vol-ii/pl.u-BNA6zLVteRkG49)By Melissa Chimwaza
 
-Community Care Vollume 3. Denouement for Change [Spotify](https://open.spotify.com/playlist/03FMVUnTJikPN8q5u9Ksmb?si=40xz-UZDRkCVGiwSnUQ9nQ) by Nathan Tran
+Community Care Volume 3. Denouement for Change [Spotify](https://open.spotify.com/playlist/03FMVUnTJikPN8q5u9Ksmb?si=40xz-UZDRkCVGiwSnUQ9nQ) by Nathan Tran
 
-Community Care Vollume 4. Earf [Spotify](https://open.spotify.com/playlist/5ap9wdtxr7JHytgQMLDBWJ?si=voxJ3cpETL-skgNdiFtjgQ) by Nathan Tran
+Community Care Volume 4. Earf [Spotify](https://open.spotify.com/playlist/5ap9wdtxr7JHytgQMLDBWJ?si=voxJ3cpETL-skgNdiFtjgQ) by Nathan Tran
 
 Feel The City Breathin [Spotify](https://open.spotify.com/playlist/0pyd1CE3KkqE2sIhGwY6ip?si=9HavGQbTQLGmv1oXiQlURw) by Ben Millam
