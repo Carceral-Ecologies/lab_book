@@ -138,7 +138,7 @@ To see how we for determine the correct EPA ID number(s) for carceral facilities
 
 Community Care Volume 1. Funk [Apple Music](https://music.apple.com/us/playlist/community-care-vol-i/pl.u-leyl2WGiMPa5qN) + [Spotify](https://open.spotify.com/user/34pvsp1zn46tvsguyfrtw7mm6/playlist/4VajBgFwigyiWahDf8Ln8S?si=7j0zXfUFTAayYPcTzDIS1g) By Melissa Chimwaza
 
-Community Care Volume 2. Reggae [Apple Music](https://music.apple.com/us/playlist/community-care-vol-ii/pl.u-BNA6zLVteRkG49)By Melissa Chimwaza
+Community Care Volume 2. Reggae [Apple Music](https://music.apple.com/us/playlist/community-care-vol-ii/pl.u-BNA6zLVteRkG49) By Melissa Chimwaza
 
 Community Care Volume 3. Denouement for Change [Spotify](https://open.spotify.com/playlist/03FMVUnTJikPN8q5u9Ksmb?si=40xz-UZDRkCVGiwSnUQ9nQ) by Nathan Tran
 
