@@ -145,3 +145,14 @@ Community Care Volume 3. Denouement for Change [Spotify](https://open.spotify.co
 Community Care Volume 4. Earf [Spotify](https://open.spotify.com/playlist/5ap9wdtxr7JHytgQMLDBWJ?si=voxJ3cpETL-skgNdiFtjgQ) by Nathan Tran
 
 Feel The City Breathin [Spotify](https://open.spotify.com/playlist/0pyd1CE3KkqE2sIhGwY6ip?si=9HavGQbTQLGmv1oXiQlURw) by Ben Millam
+
+### Supporting Undergraduate Research
+
+Undergraduate Research Fellows Program [link](http://sciences.ugresearch.ucla.edu/programs-and-scholarships/urfp)
+
+Libary Undergrad research awards (Due April 1st) [link](https://www.library.ucla.edu/research-teaching-support/support-students/showcasing-student-achievement/library-prize-undergraduate-research)
+
+Summer Programs for Undergraduate Research (various due dates, early spring) [link](https://grad.ucla.edu/admissions/diversity/summer-programs-for-undergraduate-research-spur/)
+
+Undergrad Research week [Link](https://urweek.ugresearch.ucla.edu/) + Dean's prize [Link](https://urweek.ugresearch.ucla.edu/apply/#deansprize)
+
