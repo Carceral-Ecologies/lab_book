@@ -40,7 +40,7 @@ A glossary of terms we use including our values is located [here](https://docs.g
     * Quick check in. 
     * If starting a new project go the the boring logistics of the workflow so no one gets lost in the protocol.
     * Updates on current project.
-    * Where everyone is at and what questions are keeping you from moving forward (even if folks haven't started yet they can learn from other people's question.
+    * Where everyone is at and what questions are keeping you from moving forward (even if folks haven't started yet they can learn from other people's questions).
     * If nearing the end of a project set a clear deadline to finish or to at the very least provide an update on where you left off. 
 
 3. *Work autonomously, with others*. We trust and depend on you to get your projects done, and there won’t be a lot of oversight to ensure that is happening. Nick cares for the lab as a whole, while lab members care for projects, each other, and themselves. Our work is collaborative not competitive. Respect eachothers strengths and weaknesses. We will all inevitably struggle with some aspect of our work. When you need help, reach out to other lab members. **We expect that you are able to ask for help when you need it, and to problem solve.** We are all here to help. You are always welcome to check in with Nick and the research coordinator, but you were invited to join the lab because you’re smart and can figure things out, so try that first. Mistakes will be made. That’s cool. We admit our mistakes and we communicate them to others so that mistakes aren't repeated and then we move on.
