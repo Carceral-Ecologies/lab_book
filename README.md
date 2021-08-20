@@ -156,7 +156,7 @@ Feel The City Breathin [Spotify](https://open.spotify.com/playlist/0pyd1CE3KkqE2
 
 Undergraduate Research Fellows Program (Due October 15 – November 15)[link](http://sciences.ugresearch.ucla.edu/programs-and-scholarships/urfp)
 
-Libary Undergrad research awards (Due April 1st) [link](https://www.library.ucla.edu/research-teaching-support/support-students/showcasing-student-achievement/library-prize-undergraduate-research)
+Libary Undergrad research awards (Due April 1st) [link](https://www.library.ucla.edu/research-teaching-support/support-students/showcasing-student-achievement/library-prize-undergraduate-research) humanities, social science, and arts [here](http://hass.ugresearch.ucla.edu/scholarships/urfp/)
 
 Summer Programs for Undergraduate Research (various due dates, early spring) [link](https://grad.ucla.edu/admissions/diversity/summer-programs-for-undergraduate-research-spur/)
 
