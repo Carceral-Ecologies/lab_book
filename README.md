@@ -19,16 +19,17 @@ This lab book draws upon the collectively-honed insights and pathbreaking work o
  ##	__Value Framework__
 
 
-We communicate our values in the hopes that they will ground our actions and decisions in what we hold important. It is our aspiration that all actions and outputs of the lab are reflective of these values.
+We communicate our values in the hopes that they will ground our actions and decisions in what we hold important. It is our aspiration that all actions and outputs of the lab are reflective of these values. Insert wording on constantly striving to reach for these goals/values, grounded in it, but due to complex territory... not letting us off the hook. Insert bullet points instead of ranking due to various nature of work and values that are highlighted or resonance w/ each individual.
 
-1. Critical environmental justice
-2. Abolition
-3. Accountability
-4. Humility & Solidarity
+Accountability
+Community-centered
+Abolition
+Humility & Solidarity
+Critical social, racial, and environmental justice
 
 
 ## Glossary of Terms
-A glossary of terms we use including our values is located [here](https://docs.google.com/document/d/16NC6xql736aunQCBjJzvCx3pyv8h8OSiCkgCMeYMf9E/edit?usp=sharing).
+General term + what it means to us. A glossary of terms we use including our values is located [here](https://docs.google.com/document/d/16NC6xql736aunQCBjJzvCx3pyv8h8OSiCkgCMeYMf9E/edit?usp=sharing).
 ## Lab Guidelines
 
 1. **If you are sick, heartbroken, or exhausted, go home.** This work is not more important than your well being. This guideline supersedes the following guidelines on attendence and is complementry to many of those that follow. Communicating when you have to bow out is preferred but we recognize that is not always possible.
