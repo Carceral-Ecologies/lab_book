@@ -21,11 +21,11 @@ This lab book draws upon the collectively-honed insights and pathbreaking work o
 
 We communicate our values in the hopes that they will ground our actions and decisions in what we hold important. It is our aspiration that all actions and outputs of the lab are reflective of these values. Insert wording on constantly striving to reach for these goals/values, grounded in it, but due to complex territory... not letting us off the hook. Insert bullet points instead of ranking due to various nature of work and values that are highlighted or resonance w/ each individual.
 
-Accountability
-Community-centered
-Abolition
-Humility & Solidarity
-Critical social, racial, and environmental justice
+-Accountability
+-Community-centered
+-Abolition
+-Humility & Solidarity
+-Critical social, racial, and environmental justice
 
 
 ## Glossary of Terms
