@@ -25,7 +25,7 @@ We communicate our values in the hopes that they will ground our actions and dec
 
 
 ## Glossary of Terms
-General term + what it means to us. A glossary of terms we use including our values is located [here](https://docs.google.com/document/d/16NC6xql736aunQCBjJzvCx3pyv8h8OSiCkgCMeYMf9E/edit?usp=sharing).
+General term + what it means to us. A glossary of terms we use including our values is located [here](https://docs.google.com/document/d/16NC6xql736aunQCBjJzvCx3pyv8h8OSiCkgCMeYMf9E/edit?usp=sharing) (this is semi-out of date).
 ## Lab Guidelines
 
 1. **If you are sick, heartbroken, or exhausted, go home.** This work is not more important than your well being. This guideline supersedes the following guidelines on attendence and is complementry to many of those that follow. Communicating when you have to bow out is preferred but we recognize that is not always possible.
