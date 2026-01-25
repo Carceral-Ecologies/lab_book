@@ -63,7 +63,11 @@ In addition to all of the above faculty members should:
 * Give other members feedback on a timely basis, including feedback on project ideas, conference posters, talks, manuscripts, figures, grants.
 * Be available in person and via e-mail on a regular basis, including regular meetings to discuss your research.
 * Support your career development in whatever way I can (e.g., by introducing you to other researchers in the field, promoting your work at talks, writing recommendation letters for you, and letting you attend conferences as often as finances permit)
-* Help you prepare for the next step of your career in the ways that their work and experince can be helpful. 
+* Help you prepare for the next step of your career in the ways that their work and experince can be helpful.
+
+__Students Seeking Letters of Recomendation (LOR)__
+Students in the lab seeking letters of recommendation must submit new LOR requests one month before the deadline. Make this request by sending an email to Nick and the lab manager(s). They will respond by sending you a survey to fill out to keep letter requests organized. For subsequent letters of the same variety (i.e. the same sort of program requiring similar letters) you can submit LOR requests up to seven days before the deadline.
+
 
 # Land Acknowledgement
 
@@ -133,11 +137,7 @@ To ensure our work remains accessible we rely on the following licenses (unless 
 3. For code we use the [GNU General Public License v 3](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 
-### Manual Coding Prisons, Jails, and Detention Centers with EPA ID Protocol
-
-To see how we for determine the correct EPA ID number(s) for carceral facilities please see our Manual Coding Protocol [here](https://docs.google.com/document/d/1LcTDziXidFbjKlBaBK1kJASdApoVPzriterqTe16E8s/edit?usp=sharing) (24 Pages). 
-
-### Playlists
+### Pandemic Era Playlists
 
 Community Care Volume 1. Funk [Apple Music](https://music.apple.com/us/playlist/community-care-vol-i/pl.u-leyl2WGiMPa5qN) + [Spotify](https://open.spotify.com/user/34pvsp1zn46tvsguyfrtw7mm6/playlist/4VajBgFwigyiWahDf8Ln8S?si=7j0zXfUFTAayYPcTzDIS1g) By Melissa Chimwaza
 
